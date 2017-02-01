@@ -6,4 +6,4 @@ Analysis and detection of short url spam on twitter. Achieved accuracy of 89.23%
 2. Gathering meta-data about each short url using Bitly API.
 3. Storage of all information in MongoDB.
 4. Analysis of the information to discover significant patterns.
-5. Classification of spam using [Weka] (http://www.cs.waikato.ac.nz/ml/weka/).
+5. Classification of short urls using [Weka] (http://www.cs.waikato.ac.nz/ml/weka/).
